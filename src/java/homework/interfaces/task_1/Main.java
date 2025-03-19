@@ -13,7 +13,7 @@ public class Main {
                 new FahrenheitConverter().convert(temperature));*/
 
         // дополнительное задание
-        Converter fahrenheitConverter = Converter.getInstance(Degree.FAHRENHEIT);
+        /*Converter fahrenheitConverter = Converter.getInstance(Degree.FAHRENHEIT);
         System.out.println("t = " +
                 fahrenheitConverter.convert(temperature));*/
     }
